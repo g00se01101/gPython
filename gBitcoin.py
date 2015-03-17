@@ -101,7 +101,7 @@ def importWallet():
 #importWallet();
 #unlockWallet();
 #encryptWallet();
-generateNewAddress();
+#generateNewAddress();
 
 
 
