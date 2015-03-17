@@ -100,12 +100,12 @@ def accessHomeDir():
     home = expanduser("~")
     return;
 
-accessHomeDir();
+#accessHomeDir();
 #backupWallet();
 #importWallet();
 #unlockWallet();
 #encryptWallet();
-generateNewAddress();
+#generateNewAddress();
 
 
 
