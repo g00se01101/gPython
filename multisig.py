@@ -3,7 +3,7 @@ from bitcoinrpc.authproxy import AuthServiceProxy
 
 # access home directory
 home = expanduser("~")
-access = AuthServiceProxy("http://USIv0Xm1GTsvczuYXZvS02dfIhtsmr:aiRMIuPIhI82ralBzAQu1AzZoX9qyy@127.0.0.1:8332")
+access = AuthServiceProxy("http://USIv0Xm1GTsvczuYXZvS02dfIhtsm:aiRMIuPIhI82ralBzAQu1AzZoX9qy@127.0.0.1:8332")
 
 def unlockWallet():
     "Will prompt the user to unlock wallet with encryption password."
